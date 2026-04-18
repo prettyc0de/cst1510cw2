@@ -1,0 +1,5 @@
+bcrypt==5.0.0
+pandas==2.3.3
+streamlit==1.55.0
+plotly==6.3.0
+groq==0.31.0
