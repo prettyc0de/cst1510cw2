@@ -104,6 +104,9 @@ The AI assistant provides simple cybersecurity support for users. It can answer 
 - The AI assistant requires a valid **Groq API key** to work.
 - The project was developed in a beginner-friendly modular style rather than as a highly advanced enterprise system.
 
+## GitHub Repository
+- **https://github.com/prettyc0de/cst1510cw2.git**
+
 ## Author
 **Name:** Faria Fairuz Khan Pritika  
 **Student ID:** M01101914  
