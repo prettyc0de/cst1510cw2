@@ -39,8 +39,7 @@ with tab_login:
             if login_username == user_name and is_valid_hash(login_password, user_hash):
                 st.session_state["logged_in"] = True
                 st.session_state["username"] = user_name
-                st.success("Logged in successfully!")
-                st.switch_page("pages/1_Dashboard.py")
+                st.success("Logged in successfully! Please open a dashboard from the sidebar.")
             else:
                 st.error("Invalid password.")
 
